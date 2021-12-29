@@ -1,0 +1,16 @@
+{
+  "name": "t1",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@jest/globals": "^27.4.4",
+    "jest": "^27.4.5"
+  },
+  "type": "module"
+}
